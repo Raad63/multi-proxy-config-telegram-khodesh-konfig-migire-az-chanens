@@ -306,6 +306,8 @@ trojan://telegram-id-directvpn@13.38.221.138:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@15.188.5.40:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@15.188.93.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@15.236.107.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@18.193.215.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
@@ -323,8 +325,6 @@ trojan://telegram-id-directvpn@18.197.173.247:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@3.67.117.55:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.180.220.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@35.181.146.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@51.44.95.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -346,6 +346,8 @@ trojan://telegram-id-privatevpns@13.38.221.138:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@15.188.5.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
+trojan://telegram-id-privatevpns@15.188.93.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
+
 trojan://telegram-id-privatevpns@15.236.107.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@18.193.215.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
@@ -363,8 +365,6 @@ trojan://telegram-id-privatevpns@18.197.173.247:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@3.67.117.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.180.220.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
-
-trojan://telegram-id-privatevpns@35.181.146.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@51.44.95.13:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
@@ -386,8 +386,6 @@ vmess://ewogICAgImFkZCI6ICIxMDQuMTguMTQ5Ljc2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 
 vmess://ewogICAgImFkZCI6ICJ3d3cud24wMy5jYyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInVzLmZyZWV5eWRzLmRwZG5zLm9yZyIsCiAgICAiaWQiOiAiMmYzOGY4NDgtYTg5OS00Yzg3LTk4MDctMjA3YTQxNjE1ZTNjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3JvbmdzZXZlbj9lZD0yMDQ4IiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+PgVJFTEFZLTEwNC4yMS4xMTIuMS0wNjM3IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 
-vmess://ewogICJ2IjogMiwKICAicHMiOiAiVk1FU1Mt5Yqg5ou/5aSnLU5G6Kej6ZSB5Yqg5ou/5aSn5Zyw5Yy66Z2e6Ieq5Yi25YmnLUNoYXRHUFQtVGlrVG9rLVlvdVR1YmUtNTEuNzkuMTAyLjI1Mzo4MCIsCiAgImFkZCI6ICI1MS43OS4xMDIuMjUzIiwKICAicG9ydCI6IDgwLAogICJpZCI6ICI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLAogICJhaWQiOiAwLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiBudWxsLAogICJob3N0IjogIjUxLjc5LjEwMi4yNTMiLAogICJwYXRoIjogIi9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwKICAidGxzIjogZmFsc2UsCiAgInNuaSI6ICIiCn0=
-
 vmess://eyJ0eXBlIjoiaHR0cCIsInBvcnQiOiIxNTQwMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsInNjeSI6ImF1dG8iLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJpZCI6ImNjNjYwNjE0LTExNzItNDk4OC05NjQ3LTM4NDY1MDJkMGU0ZiIsImFkZCI6InR1LnNob3B0eC5zYnMiLCJwcyI6Ilx1ZDgzZFx1ZGQzNCB8IHZtZXNzXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjEzOC43NC4xNzMiLCJwb3J0IjoxMzcwMCwiaWQiOiJmMzhhNTUwMC03N2RlLTQzODQtODZmNS01NGQ3YWI1ZGUyYzgiLCJuZXQiOiJncnBjIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicGF0aCI6IlRlbGVncmFtQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2kiLCJwcyI6Ilx1ZDgzZFx1ZGQzNCB8IHZtZXNzXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=
@@ -395,6 +393,8 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjQ1LjEzOC43NC4xNzMiLCJwb3J0IjoxMzcwMCwiaWQiOiJmMzhh
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwiYWRkIjoiaGt0LmdvdG9jaGluYXRvd24ubmV0IiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjM4NGQxYjQyLTY1NWYtMTFlZC1hOGJmLWYyM2M5MWNmYmJjOSIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImJyb2FkY2FzdGx2LmNoYXQuYmlsaWJpbGkuY29tIiwidGxzIjoiIn0=
 
 vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6InZtd3MtanAuaHV0YW9ub2RlNC50b3AiLCJwb3J0IjoiMTIwMzIiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTU5ZmM3ZTktZGZkZi0zYmZmLTk0MzAtZWIxOTNlMzJiZGQ5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hSFYwWVc4IiwiaG9zdCI6ImJpbGliaWxpLmNvbSIsInRscyI6IiJ9
+
+vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6InZtd3MtdXMuaHV0YW9ub2RlNC50b3AiLCJwb3J0IjoiMTIyMzIiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTU5ZmM3ZTktZGZkZi0zYmZmLTk0MzAtZWIxOTNlMzJiZGQ5IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hSFYwWVc4IiwiaG9zdCI6ImJpbGliaWxpLmNvbSIsInRscyI6IiJ9
 
 vmess://eyJhZGQiOiI1MS43OS44Ni4xODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjYxMCIsInBzIjoiQG1lbGlfcHJveHl5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
