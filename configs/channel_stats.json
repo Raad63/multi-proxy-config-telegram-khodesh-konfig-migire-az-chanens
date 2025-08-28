@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-28T04:33:18.647459+00:00",
+  "timestamp": "2025-08-28T04:49:25.162079+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2rayfree",
@@ -8,11 +8,11 @@
         "total_configs": 12,
         "valid_configs": 12,
         "unique_configs": 12,
-        "avg_response_time": 0.34,
+        "avg_response_time": 0.41,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.49,
-        "last_success": "2025-08-28T04:30:00.688169+00:00",
+        "overall_score": 99.39,
+        "last_success": "2025-08-28T04:46:07.274742+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -52,20 +52,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 27,
-        "valid_configs": 21,
-        "unique_configs": 21,
+        "valid_configs": 19,
+        "unique_configs": 19,
         "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.23,
-        "last_success": "2025-08-28T04:30:05.124294+00:00",
+        "overall_score": 92.39,
+        "last_success": "2025-08-28T04:46:11.726756+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 7,
-          "vmess://": 9,
+          "vmess://": 8,
           "ss://": 3,
-          "trojan://": 2,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -81,7 +81,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 96.67,
-        "last_success": "2025-08-28T04:30:07.293200+00:00",
+        "last_success": "2025-08-28T04:46:13.895493+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,11 +123,11 @@
         "total_configs": 32,
         "valid_configs": 26,
         "unique_configs": 24,
-        "avg_response_time": 0.33,
+        "avg_response_time": 0.3,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 92.89,
-        "last_success": "2025-08-28T04:30:11.948802+00:00",
+        "overall_score": 92.94,
+        "last_success": "2025-08-28T04:46:18.516966+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -173,7 +173,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 96.68,
-        "last_success": "2025-08-28T04:30:16.296372+00:00",
+        "last_success": "2025-08-28T04:46:22.865761+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -212,7 +212,7 @@
       "url": "https://t.me/s/proxyiranip",
       "enabled": false,
       "metrics": {
-        "total_configs": 4,
+        "total_configs": 5,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -334,7 +334,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.22,
-        "last_success": "2025-08-28T04:30:31.621471+00:00",
+        "last_success": "2025-08-28T04:46:38.109037+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
