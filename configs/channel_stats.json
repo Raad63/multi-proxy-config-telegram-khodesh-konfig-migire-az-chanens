@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-03T04:00:09.068488+00:00",
+  "timestamp": "2025-09-03T04:32:32.230888+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2rayfree",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 95.49,
-        "last_success": "2025-09-03T03:56:50.071108+00:00",
+        "last_success": "2025-09-03T04:29:13.451605+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -52,20 +52,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 13,
-        "unique_configs": 13,
-        "avg_response_time": 0.16,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 0.17,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.01,
-        "last_success": "2025-09-03T03:56:54.674247+00:00",
+        "overall_score": 88.49,
+        "last_success": "2025-09-03T04:29:17.978774+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 1,
           "vmess://": 6,
-          "ss://": 1,
-          "trojan://": 5,
+          "ss://": 0,
+          "trojan://": 4,
           "tuic://": 0
         }
       }
@@ -81,7 +81,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 99.76,
-        "last_success": "2025-09-03T03:56:56.870302+00:00",
+        "last_success": "2025-09-03T04:29:20.170419+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,11 +123,11 @@
         "total_configs": 56,
         "valid_configs": 39,
         "unique_configs": 39,
-        "avg_response_time": 0.35,
+        "avg_response_time": 0.34,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 91.89,
-        "last_success": "2025-09-03T03:57:01.625922+00:00",
+        "overall_score": 91.9,
+        "last_success": "2025-09-03T04:29:24.888112+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -149,8 +149,8 @@
         "avg_response_time": 0.3,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 94.37,
-        "last_success": "2025-09-03T03:57:03.969142+00:00",
+        "overall_score": 94.38,
+        "last_success": "2025-09-03T04:29:27.225377+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
@@ -169,11 +169,11 @@
         "total_configs": 16,
         "valid_configs": 16,
         "unique_configs": 16,
-        "avg_response_time": 0.17,
+        "avg_response_time": 0.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.74,
-        "last_success": "2025-09-03T03:57:06.172731+00:00",
+        "overall_score": 99.76,
+        "last_success": "2025-09-03T04:29:29.419700+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -284,11 +284,11 @@
         "total_configs": 97,
         "valid_configs": 93,
         "unique_configs": 93,
-        "avg_response_time": 0.36,
+        "avg_response_time": 0.3,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 98.42,
-        "last_success": "2025-09-03T03:57:17.508944+00:00",
+        "overall_score": 98.52,
+        "last_success": "2025-09-03T04:29:40.666107+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 2,
@@ -330,11 +330,11 @@
         "total_configs": 12,
         "valid_configs": 3,
         "unique_configs": 3,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.15,
-        "last_success": "2025-09-03T03:57:21.909275+00:00",
+        "overall_score": 81.09,
+        "last_success": "2025-09-03T04:29:45.074931+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
