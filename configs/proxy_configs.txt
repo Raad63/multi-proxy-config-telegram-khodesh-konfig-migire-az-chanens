@@ -172,8 +172,6 @@ vless://d4803c0d-c9f3-4c9c-a034-342a71ef03a0@91.98.47.45:443?path=%2Flinkws%3Fed
 
 vless://d7dbeb1e-268c-465c-8f59-489f14703efd@5.182.36.251:16331?security=reality&encryption=none&pbk=wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=910aab#%3E%3E%40shadowproxy66%3A%3ACH
 
-trojan://253bc477d4e43c209f2d427272968280@160.16.136.130:4451?allowInsecure=1&sni=www.nintendogames.net#👉🆔@v2ray_configs_pool📡🇯🇵®️Japan©️Osaka🅿️ping:238.89ms
-
 trojan://253bc477d4e43c209f2d427272968280@221.128.195.218:4431?sni=www.nintendogames.net&path=%2f#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -185,6 +183,8 @@ trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=t
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&type=ws&sni=kotlet.arshiacomplus.dpdns.org#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=firefox&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
+trojan://abd16f44-12ca-4078-8345-11bcb4cd0fbd@104.21.70.241:443?path=%2FFree-VPN-Geo-Project%2F92.178.109.187-443&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#%3E%3E%40configV2rayNG%3A%3AUS
 
@@ -342,15 +342,9 @@ vmess://ewogICAgImFkZCI6ICJwZWxhbmcub3JnIiwKICAgICJhaWQiOiAxLAogICAgImhvc3QiOiAi
 
 vmess://eyJ0bHMiOiJ0bHMiLCJob3N0IjoicGVsYW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwic25pIjoicGVsYW5nLm9yZyIsImFsbG93SW5zZWN1cmUiOjAsImZwIjoiY2hyb21lIiwiYWRkIjoiNTcuMTI5LjY0LjE5OSIsInBvcnQiOiI0NDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsInBhdGgiOiJsaW5rdndzIiwidiI6IjIiLCJwcyI6IvCfh6fwn4e3QG1lbGlfcHJveHl5IiwibmV0Ijoid3MifQ==
 
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjU3LjEyOS4yNC4xMjQiLCAicG9ydCI6IDQ0MywgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICJ0bHMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgInNuaSI6ICJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwgImhvc3QiOiAiYXZlaXJvci5jb20iLCAicGF0aCI6ICIvbGlua3Z3cyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhXHUwMGFlXHVmZTBmR2VybWFueVx1MDBhOVx1ZmUwZkxpbWJ1cmcgYW4gZGVyIExhaG5cdWQ4M2NcdWRkN2ZcdWZlMGZwaW5nOjU1Ljc5bXMifQ==
-
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivM3xAc3RhaXJub2RlIiwiYWRkIjoiNDMuMjQ3LjEzNC4yMTMiLCJwb3J0IjoiMTgzNjYiLCJ0eXBlIjoibm9uZSIsImlkIjoiY2NjMzdiMWItNGVmMC00MzBjLWIxZTEtMjBiZjk2ZmNmZjhjIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvemtzdWFwZ3giLCJob3N0IjoiYmFpZHUuY29tIiwidGxzIjoiIn0=
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7jnvo7lm70xOSB8IOKsh++4jyAyLjFNQi9zIiwiYWRkIjoieGNmMDM2LmZhY2FpMjAyNC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiOTZjNTg1ZGUtYzdlNC00MWNiLWEyMzItOWFiYTUzNWVhOWFjIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4Y2YwMzYuZmFjYWkyMDI0LmNvbSIsInBhdGgiOiIvOTZjNTg1ZGUifQ==
-
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNTcuMTI5LjI1LjI1IiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiaG9zdCI6ImYua2hpbGVpLmNvbSIsInBhdGgiOiJcL2xpbmt2d3MifQ==
-
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzNi43MCIsICJhaWQiOiAxLCAiaG9zdCI6ICJkLnVzYWhhLmhvbWVzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJkLnVzYWhhLmhvbWVzIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzoyNi4xMm1zIn0=
 
 vmess://eyJhZGQiOiI0NS42Ny4yMzAuNzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Ii9KT0tFUlJWUE5fQklBX0NIQU5FTEBKT0tFUlJWUE4iLCJpZCI6IjMxNDE4NWY3LTkzMWQtNDY1Ni05MjJkLTA4NTdlN2FmZDIyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwNTIiLCJwcyI6Ij4+QEZyZWFrQ29uZmlnOjpSVSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
 
