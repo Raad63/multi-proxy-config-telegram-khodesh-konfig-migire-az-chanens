@@ -146,8 +146,6 @@ vless://4eb038b0-bacc-4c16-a179-a17b781dd2e2@38.54.94.169:443?encryption=none&se
 
 vless://51e7067c-f032-45e2-b76e-ef39f0a51744@193.233.19.240:8080?flow=&type=tcp&headerType=none&security=tls&sni=edu.smnsoft.com&alpn=http/1.1,h2&fp=chrome&allowInsecure=0#@meli_proxyy
 
-vless://51e7067c-f032-45e2-b76e-ef39f0a51744@193.233.19.240:8080?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=edu.smnsoft.com#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%B3
-
 vless://51f2d91a-7536-4e93-8596-b1bda22b2cd1@vpn1.toppfast.ir:443?flow=&type=tcp&headerType=http&host=speedtest.net&path=/&security=none#@meli_proxyy
 
 vless://535915c5-b455-4ac1-a186-78353570a251@23.166.88.109:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=mbUkRT2YVvtaeGlZbLsfdQ-P1j07sEBBRzn9dZQ-DHY&sid=be8a0c77d5ff88d5&type=grpc&serviceName=aec69a9d2944dd7468412f47#%3E%3E%40DailyV2RY%3A%3ACH
@@ -172,7 +170,11 @@ vless://89b4b3b1-f8f3-45e8-b320-813890725a63@146.19.106.108:443?encryption=none&
 
 vless://89b4b3b1-f8f3-45e8-b320-813890725a63@146.19.106.108:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=RLnn_xv-bEz-EyKftk39W7X9dcCPUKQVHesIib6JxDo&sid=7f82332c5128e55f&type=tcp&flow=xtls-rprx-vision#%3E%3E%40DailyV2RY%3A%3ACA
 
+vless://90cd4a77-141a-43c9-991b-08263cfe9c10@gur.gov.ua:443?path=%2F&security=tls&encryption=none&type=ws&sni=azadnet3-9do.pages.dev#%40meli_proxyy
+
 trojan://8d6d33b5-8d0d-41c3-9f3d-9b5aac43d4c9@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FES1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://c45ba3c9-fa4a-4301-ab1d-4469c24f9320@104.21.33.216:443?path=%2FFree-VPN-CF-Geo-Project%2FES4&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
@@ -192,6 +194,8 @@ trojan://telegram-id-directvpn@35.181.218.22:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@51.45.11.113:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@51.45.17.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
 trojan://telegram-id-directvpn@52.47.52.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@63.177.201.129:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
@@ -201,8 +205,6 @@ trojan://telegram-id-directvpn@63.178.172.63:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@63.179.170.59:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@63.179.213.209:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@63.180.134.234:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-privatevpns@13.38.156.135:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
@@ -220,6 +222,8 @@ trojan://telegram-id-privatevpns@35.181.218.22:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@51.45.11.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
+trojan://telegram-id-privatevpns@51.45.17.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
+
 trojan://telegram-id-privatevpns@52.47.52.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.177.201.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
@@ -229,8 +233,6 @@ trojan://telegram-id-privatevpns@63.178.172.63:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@63.179.170.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 trojan://telegram-id-privatevpns@63.179.213.209:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
-
-trojan://telegram-id-privatevpns@63.180.134.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs📚آموزش استفاده از سرورها🌐 @PrivateVPNs
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#%3E%3E%40ShadowsocksM%3A%3AXX
 
