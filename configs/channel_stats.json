@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-21T11:22:17.590297+00:00",
+  "timestamp": "2025-10-21T11:42:12.538754+00:00",
   "channels": [
     {
       "url": "https://t.me/s/v2rayfree",
@@ -8,11 +8,11 @@
         "total_configs": 18,
         "valid_configs": 18,
         "unique_configs": 18,
-        "avg_response_time": 0.53,
+        "avg_response_time": 0.52,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 99.21,
-        "last_success": "2025-10-21T11:18:58.387045+00:00",
+        "overall_score": 99.22,
+        "last_success": "2025-10-21T11:38:53.312300+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -80,8 +80,8 @@
         "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.81,
-        "last_success": "2025-10-21T11:19:05.301320+00:00",
+        "overall_score": 97.82,
+        "last_success": "2025-10-21T11:39:00.208871+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -98,20 +98,20 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 8,
-        "unique_configs": 8,
+        "valid_configs": 7,
+        "unique_configs": 7,
         "avg_response_time": 0.29,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.56,
-        "last_success": "2025-10-21T11:19:07.628482+00:00",
+        "overall_score": 83.32,
+        "last_success": "2025-10-21T11:39:02.528771+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
           "vless://": 0,
           "vmess://": 4,
           "ss://": 0,
-          "trojan://": 4,
+          "trojan://": 3,
           "tuic://": 0
         }
       }
@@ -126,8 +126,8 @@
         "avg_response_time": 0.36,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 87.98,
-        "last_success": "2025-10-21T11:19:10.055698+00:00",
+        "overall_score": 87.99,
+        "last_success": "2025-10-21T11:39:04.953953+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -150,7 +150,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 94.38,
-        "last_success": "2025-10-21T11:19:12.406647+00:00",
+        "last_success": "2025-10-21T11:39:07.306237+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 9,
@@ -169,11 +169,11 @@
         "total_configs": 15,
         "valid_configs": 14,
         "unique_configs": 14,
-        "avg_response_time": 0.27,
+        "avg_response_time": 0.29,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 97.92,
-        "last_success": "2025-10-21T11:19:14.715559+00:00",
+        "overall_score": 97.9,
+        "last_success": "2025-10-21T11:39:09.632564+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -284,11 +284,11 @@
         "total_configs": 177,
         "valid_configs": 172,
         "unique_configs": 172,
-        "avg_response_time": 0.32,
+        "avg_response_time": 0.33,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 98.82,
-        "last_success": "2025-10-21T11:19:26.104927+00:00",
+        "overall_score": 98.8,
+        "last_success": "2025-10-21T11:39:20.987002+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -330,11 +330,11 @@
         "total_configs": 72,
         "valid_configs": 8,
         "unique_configs": 8,
-        "avg_response_time": 0.06,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.68,
-        "last_success": "2025-10-21T11:19:30.486529+00:00",
+        "overall_score": 77.67,
+        "last_success": "2025-10-21T11:39:25.377002+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
