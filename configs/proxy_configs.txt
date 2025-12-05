@@ -28,7 +28,7 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?encryption=none&se
 
 vless://2a325803-9458-455d-ad20-e51fab100145@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#%253E%253E%2540v2rayngvpn%3A%3AGB
 
-vless://43903c8d-5c42-4cb8-9da8-9d42178379c1@31.56.146.225:53440?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🤞
+vless://43903c8d-5c42-4cb8-9da8-9d42178379c1@31.56.146.225:53440?security=none&encryption=none&headerType=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85👋
 
 vless://4c9541c7-5fa1-403c-84af-175e3b25a27f@104.21.15.212:8080?path=%2F&security=none&encryption=none&host=201.58vtg99l.workers.dev&type=ws&sni=201.58vtg99l.workers.dev#%253E%253E%2540v2rayngvpn%3A%3AUS
 
@@ -268,7 +268,7 @@ trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&authority=/---
 
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://79314e99f0a473fe86efc7827942ad00@153.121.51.29:127?sni=www.nintendogames.net&path=/#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://79314e99f0a473fe86efc7827942ad00@153.121.51.29:127?security=tls&sni=www.nintendogames.net&path=/#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@13.36.44.112:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -352,8 +352,6 @@ hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#%2
 
 hysteria2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%253E%253E%2540oneclickvpnkeys%3A%3AFR
 
-vmess://ewogICAgImFkZCI6ICJ2MTAuaGVkdWlhbi5saW5rIiwKICAgICJhaWQiOiAyLAogICAgImhvc3QiOiAidjEwLmhlZHVpYW4ubGluayIsCiAgICAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL29vb28iLAogICAgInBvcnQiOiAzMDgwNywKICAgICJwcyI6ICLwn4et8J+HsEhLLTIxOS43OS4xODcuMTg4LTUwNTYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJiYWlkdS5jb20iCn0=
-
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHaG9zdHJheS1AR2hvc3RyYXlfTkciLAogICJhZGQiOiAiczIuZ2hvc3Rya2guc2JzIiwKICAicG9ydCI6IDg4ODAsCiAgImlkIjogIjZkNWFiNTc5LTkwYjYtNGZjNC1hZjc2LTcwYzA3ZjFkM2NhZiIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogImdycGMiLAogICJ0bHMiOiAibm9uZSIsCiAgInBhdGgiOiAiQEdob3N0cmF5X05HIiwKICAiYXV0aG9yaXR5IjogIiIKfQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMHwtaHR0cHM6Ly90Lm1lL01yWGJpbi05NyIsICJhZGQiOiAiMTQ2LjU5LjU1LjUwIiwgInBvcnQiOiA0NDMsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJzbmkiOiAid3JtZWxtd3hsZi5na3RldmxycXpud3Fxb3p5LmZhYnBmczY2Z2l6bW5vamhjdnF4d2wua3l0cmNmenFsYTg3Z3ZndnM2Yzdram5ydWJ1aC5jYyIsICJob3N0IjogIm8ubWV0dWppLmNvbSIsICJwYXRoIjogIi9saW5rdndzIn0=
@@ -368,9 +366,11 @@ vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjA0
 
 vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjViMmMwOWUwLXN1dmRzMC10Mm9vc2MteG0wcS5oazMucDVwdi5jb20iLCJwb3J0Ijo4MCwiaWQiOiIzNDM3ZjM0ZS0xYjc3LTExZWItODY4NC1mMjNjOTEzYzhkMmIiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiI1YjJjMDllMC1zdXZkczAtdDJvb3NjLXhtMHEuaGszLnA1cHYuY29tIiwiYWxwbiI6bnVsbCwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBISyA0In0=
 
-vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Ijg2NWM1YzAxLXN2NG40MC10NjVhM2UtdHFnei5oazMucDVwdi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI4OGRhMGQyMS1iMjVkLTExZWMtYjlmNy1mMjNjOTFjZmJiYzkiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsImFscG4iOm51bGwsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSEsgNyJ9
-
 vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Ijk1NGU4ZjhmLXN2NG40MC1zdnM0ODgtbjA5Zi5oazMucDVwdi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI4OWIwZWE4Yy04MDZiLTExZWQtOTRiYS1mMjNjOTEzYzhkMmIiLCJhaWQiOiIyIiwic2N5IjpudWxsLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiJicm9hZGNhc3Rsdi5jaGF0LmJpbGliaWxpLmNvbSIsImFscG4iOm51bGwsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSEsgMTEifQ==
+
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6ImZkZGEzOWYzLXN2NG40MC10YXNvcnMtMXRkcXQuaGszLnA1cHYuY29tIiwicG9ydCI6ODAsImlkIjoiMTY3ZGI5N2MtZWUwMS0xMWVmLWI3MzctZjIzYzkxY2ZiYmM5IiwiYWlkIjoiMiIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCJhbHBuIjpudWxsLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhLIDgifQ==
+
+vmess://eyJhZGQiOiAiNTQ3LnJ0eGNvbmZpZ3ouc2hvcCIsICJhaWQiOiAiMCIsICJob3N0IjogIm5vZGU0LnJ0eGNvbmZpZ3ouY29tIiwgImlkIjogIjQ0ZTU3NDg1LWVjY2MtNDZlZi04MDhmLWNkMTdhYzgxMDAxOCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQE1hbGluZGE2MTA0IiwgInBvcnQiOiA4MDgwLCAic2N5IjogImF1dG8iLCAidGxzIjogIm5vbmUiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZTZcdTAwYWVcdWZlMGZDYW5hZGFcdTAwYTlcdWZlMGZUb3JvbnRvXHVkODNjXHVkZDdmXHVmZTBmcGluZzoyMi4xbXMifQ==
 
 vmess://eyJhZGQiOiI0NG00cjAua2Vlb29tYm9vbS5kZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiNDRtNHIwLmtlZW9vbWJvb20uZGUiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlby8wZHc1Zi5tM3U4IiwicG9ydCI6IjQ0MyIsInBzIjoiPj5AdjJyYXlOR19NYXRzdXJpOjpYWCIsInNjeSI6ImF1dG8iLCJzbmkiOiI0NG00cjAua2Vlb29tYm9vbS5kZSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
