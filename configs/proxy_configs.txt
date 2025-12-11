@@ -298,8 +298,6 @@ trojan://76d630f2af6619c4a5de0ef953df3c6a@58.152.110.82:443/?type=tcp&security=t
 
 trojan://BxceQaOe@58.152.53.174:443?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%2011%20&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AD%F0%9F%87%B0HK%20%F0%9F%A7%AD%202.1MB%2Fs#کانفیگ_پرسرعت 🚀🚀🚀🚀
 
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://telegram-id-directvpn@13.37.88.6:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.38.168.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
@@ -325,6 +323,8 @@ trojan://telegram-id-directvpn@3.235.106.231:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@3.235.106.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNG
 
 trojan://telegram-id-directvpn@3.71.170.55:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@3.71.170.55:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@35.180.72.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -400,10 +400,6 @@ hysteria2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%
 
 hysteria2://ea76ae7e-ea95-11ef-8b73-f23c91cfbbc9@d9d68b3a-t48f40-taklwz-12bd.hk1.hyhuawei.com:443/?insecure=1&sni=d9d68b3a-t48f40-taklwz-12bd.hk1.hyhuawei.com#%3E%3E%40oneclickvpnkeys%3A%3AHK
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+RifCfhpQgQHYycmF5X2NvbmZpZ3NfcG9vbCDwn5OhIPCfh6nwn4eqREUg8J+nrSA0LjJNQi9zIiwiYWRkIjoiMTI5LjIxMi4xOTQuMTY0IiwicG9ydCI6Ijc0NDMiLCJpZCI6IjcxYjYyMWM5LTQwYTYtNDIxMi1iOWIzLTNkOTg4MGRlMmFjYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
-
-vmess://eyJ2IjoiMiIsInBzIjoi8J+RifCfhpQgQHYycmF5X2NvbmZpZ3NfcG9vbCDwn5OhIPCfh6nwn4eqREUg8J+nrSAzLjJNQi9zIiwiYWRkIjoiYS5jb25maWdub3Iuc2l0ZSIsInBvcnQiOiI3NDQzIiwiaWQiOiJkYmIzMDVkMi1iYWQ3LTRjZjktOTgyZi0xNGJlNWVmZWFmMTUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIifQ==
-
 vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJsaW5lOjpISyIsImFkZCI6IjQ3LjI0Mi4xNDUuMTYwIiwicG9ydCI6IjQ0NDU3IiwiaWQiOiI0MDI5MDYwOS0yNzQzLTRkODUtYzljMy00YzcyZGQxNTFiOWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJsaW5lOjpYWCIsImFkZCI6IjIwOS4xMjYuODQuMTg5IiwicG9ydCI6IjQ0MyIsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjIwOS4xMjYuODQuMTg5IiwicGF0aCI6Ii92bWVzc3dzIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
@@ -415,6 +411,10 @@ vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJsaW5lOjpYWDo6WFgiLCJhZGQiOiI4LjIxMC4xMzQuMTgz
 vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpISzo6SEs6OkhLOjpISzo6SEsiLCJhZGQiOiI0Ny4yNDMuMjEzLjI0NyIsInBvcnQiOiI1Njg5IiwiaWQiOiJhOTlkMDhlYi04MWM1LTQ5NDQtYmExNi00NDYxYmIyZWM4MDgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOTUuMTY0LjQuODgiLCJwb3J0Ijo4MCwiaWQiOiJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiXC92bWVzc1wvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwibmFtZSI6Ij4+QHYybGluZTo6WFgifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiYS5jb25maWdub3Iuc2l0ZSIsInBvcnQiOjc0NDMsImlkIjoiZTQ1MGY2MzItNzVmZS00ODc2LWJhNDEtY2U1MTc3YjAzODkxIiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiXC8iLCJ0bHMiOiJub25lIiwic25pIjoid3d3Lm1pY3Jvc29mdC5jb20iLCJuYW1lIjoiXHUwNjQ1XHUwNjI3IFx1MDY0N1x1MDY0NVx1MDZjY1x1MDYzNFx1MDY0NyBcdTA2MmZcdTA2MzEgXHUwNmE5XHUwNjQ2XHUwNjI3XHUwNjMxIFx1MDYzNFx1MDY0NVx1MDYyNyBcdTA2NDdcdTA2MzNcdTA2MmFcdTA2Y2NcdTA2NDUgQENvbmZpZ0ZyZWUifQ==
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiYS5jb25maWdub3Iuc2l0ZSIsInBvcnQiOjc0NDMsImlkIjoiZmMwZDYxZjktODM2MC00N2Y3LTg4YWYtMmMxYTQ0YWRmMWIxIiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiXC8iLCJ0bHMiOiJub25lIiwic25pIjoid3d3Lm1pY3Jvc29mdC5jb20iLCJuYW1lIjoiXHUwNjI4XHUwNjI3IFx1MDYzM1x1MDYzMVx1MDYzOVx1MDYyYSBcdTA2NDZcdTA2NDhcdTA2MzEgXHUwNjQ4XHUwNjM1XHUwNjQ0IFx1MDYyOFx1MDYyN1x1MDYzNCBAQ29uZmlnRnJlZSJ9
 
 vmess://eyJhZGQiOiAiMTA0LjI5LjY0LjI0IiwgInYiOiAiMiIsICJwcyI6ICJcdTUxNzNcdTZjZThcdTc1MzVcdTYyYTVodHRwczovL3QubWUvYWlmZW54aWFuZzIwMjAiLCAicG9ydCI6IDgwLCAiaWQiOiAiNGUyMTU3NGYtMTc5Ni00ZjBhLTg2YzAtNDQzMGZlOTlkM2ExIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImZyMS5jYWNoZXh5LmdhIiwgInBhdGgiOiAiL3A5RHE2N054LyIsICJ0bHMiOiAiIn0=------------------------------------------
 
