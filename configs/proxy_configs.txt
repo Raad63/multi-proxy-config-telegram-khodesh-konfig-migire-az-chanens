@@ -34,8 +34,6 @@ vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%
 
 vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85🍔
 
-vless://281d153a-2fae-4725-84ed-602fb3627ca6@193.160.209.95:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%90%BD
-
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.19.113.54:80?encryption=none&security=none&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=vless.hubp.de&path=t.me%2Fv2Line#%3E%3E%40v2line%3A%3AUS
 
 vless://33676069-bc5a-443c-bb64-14a215544f2b@deu711.deulucker.org:444?mode=auto&path=%2Fapi%2Fv1%2F&security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&fp=chrome&type=xhttp&sni=deu711.deulucker.org#%3E%3E%40v2rayngvpn%3A%3ANL
@@ -172,6 +170,8 @@ vless://f0075296-2b03-42ef-a4cd-491804eb9da1@m3a.vip784.com:33801?security=none&
 
 vless://f028a8c0-6763-4558-aee3-2563db9d7825@serena.ns.cloudflare.com:443?encryption=none&security=tls&sni=freudd.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=freudd.info&path=%2Fxxvclws#%3E%3E%40v2ray_configs_pool%3A%3AXX
 
+vless://f0ee92ea-68ac-4c13-8529-d302baaa9f0d@m57a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%3E%3E%40prrofile_purple%3A%3AXX
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0VHFMcGRHclZSSkpnM2JWeWJLSFds@62.133.63.21:65262#%3E%3E%40v2rayngvpn%3A%3AXX
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
@@ -278,8 +278,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8
 
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#%3E%3E%40outline_vpn%3A%3AXX
 
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.106.144:4054?sni=www.nintendogames.net&path=/#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#%3E%3E%40v2line%3A%3ASG
 
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.153.13:3145?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp&headerType=none#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -291,6 +289,8 @@ trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.89.176:4054?sni=www.nintendogam
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=softpillow.silentrocket.click&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ASE
 
 trojan://FodSUXysuS@180.131.145.161:23274?security=reality&sni=cloudflare.com&fp=chrome&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&sid=14&type=grpc&path=/#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://telegram-id-directvpn@13.38.168.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN🚀 @DirectVPN ✴️
 
@@ -388,9 +388,11 @@ vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJyYXlfY29uZmlnc19wb29sOjpISzo6SEs6OkhLOjpISzo6
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjA5LjEyNi44NC4xODkiLCJwb3J0Ijo0NDMsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwiaG9zdCI6IjIwOS4xMjYuODQuMTg5IiwicGF0aCI6Ilwvdm1lc3N3cyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiI+PkB2MmxpbmU6OlVTIn0=
 
-vmess://eyJhZGQiOiI0NS44NC4xOTYuNTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjE4MDIwMzMtZjQzOS00MDIzLWFmNjEtNTZlMzUwY2RjNTk0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOjQ0NCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsIm5hbWUiOiJAb25lX3Nob3Bfb2ZmaWNpYWwifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDcuMjQzLjIxMy4yNDciLCJwb3J0Ijo1Njg5LCJpZCI6ImE5OWQwOGViLTgxYzUtNDk0NC1iYTE2LTQ0NjFiYjJlYzgwOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiXC9hcmtpIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwibmFtZSI6Ij4+QHYycmF5X2NvbmZpZ3NfcG9vbDo6SEs6OkhLOjpISzo6SEs6OkhLOjpISyJ9
 
 vmess://eyJhZGQiOiI0NS44NS4xMTguODgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhzdHIxNjc1NTIwMTA2MjcwLmFpZGFwcC5saWZlIiwiaWQiOiJlZTMwZDNmZi1kYTE0LTRlYTgtYmNkMi0wMmU4ZWUzNjY3ZGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWlkYXBwLmxpZmV2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAaG8zaW5vMDAg2KLYrtmI2YbYryDYsduM2YLZiPCfpKMiLCJzY3kiOiJhdXRvIiwic25pIjoiaHN0cjE2NzU1MjAxMDYyNzAuYWlkYXBwLmxpZmUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+vmess://eyJhZGQiOiI0NS44OS41Mi4yMDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOjM5NjUxLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwibmFtZSI6Ij4+QFYyUkFZX1ZNRVNTX2ZyZWU6OlhYIn0=
 
 vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiM2RiYWE1YzMtZjQ5My00YWQxLTljNWQtODUyNWY0OTYyYTZjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoyMDUyMSwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwibmFtZSI6IkNoYW5uZWwgaWQ6QHByb3h5X2thZmVlXHVkODNjXHVkZGYyXHVkODNjXHVkZGZlIn0=
 
