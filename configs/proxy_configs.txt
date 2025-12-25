@@ -28,8 +28,6 @@ vless://1a0d2a22-7304-462c-9bab-bf2ad1cd24c2@yd.3.hhhhh.eu.org:443/?type=ws&encr
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#%3E%3E%40v2nodes%3A%3AES
 
-vless://1a539db6-d162-42f4-9b56-687bd57bfbc2@45.8.144.198:443?security=reality&encryption=none&pbk=KXA-hPtvy_hzNER1ZNtUxBv_VrGGKfmIyi4CQAyjGxs&headerType=none&fp=chrome&type=tcp&sni=mirror.yandex.ru&sid=d94e8f45#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB
-
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.138.90:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
 
 vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.249.92:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%3E%3E%40v2ray_configs_pool%3A%3AUS
@@ -172,6 +170,8 @@ vless://8062ddd7-fdee-485d-8948-c6e5df168fe9@173.212.209.56:443/?type=tcp&encryp
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%3E%3E%40oneclickvpnkeys%3A%3AUS
 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.95:8880?mode=gun&security=none&encryption=none&type=grpc#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%BF
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.199:8080#%3E%3E%40v2rayNG_Matsuri%3A%3AXX
@@ -248,7 +248,7 @@ trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?security=tls&sni=www
 
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@112.118.116.8:443?sni=www.nintendogames.net&path=/#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?sni=www.nintendogames.net&path=/#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&sni=www.nintendogames.net&path=/#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.116.227:4054?security=tls&sni=www.nintendogames.net&path=/#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
@@ -320,8 +320,6 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVk1FU1Mt576O5Zu9PuW+t+WbvS1ORuino+mUgeWN
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggX1VTX+e+juWbvS0+8J+Hs/Cfh7FfTkxf6I235YWwIiwiYWRkIjoiNDUuMTk5LjEzOC4xOTEiLCJwb3J0IjoiMzAwMDAiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xNjk2MjUxNTIyNDM4IiwiaG9zdCI6IiIsInRscyI6InRscyJ9
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+RifCfhpQgQHYycmF5X2NvbmZpZ3NfcG9vbCDwn5OhIPCfh6nwn4eqREVfNSDwn6etIDQuOE1CL3MiLCJhZGQiOiI3Ny40Mi43Ny42NiIsInBvcnQiOiI0MDEwMCIsImlkIjoiNzNmZWVlZDYtOWE0MC00NWIwLWEyNmQtODQ3NzBmNWYwNWZkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
-
 vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJsaW5lOjpISzo6SEs6OkhLIiwiYWRkIjoiNDcuMjQyLjE0NS4xNjAiLCJwb3J0IjoiNDQ0NTciLCJpZCI6IjQwMjkwNjA5LTI3NDMtNGQ4NS1jOWMzLTRjNzJkZDE1MWI5ZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJsaW5lOjpKUCIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6IjgwIiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSJ9
@@ -343,8 +341,6 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjA5
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDUuODkuNTIuMjA3IiwicG9ydCI6Mzk2NTEsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiIsIm5hbWUiOiI+PkB2MnJheV9jb25maWdzX3Bvb2w6OlhYIn0=
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDcuMjQyLjE0NS4xNjAiLCJwb3J0Ijo0NDQ1NywiaWQiOiI0MDI5MDYwOS0yNzQzLTRkODUtYzljMy00YzcyZGQxNTFiOWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiI+PkB2MmxpbmU6OkhLOjpISzo6SEsifQ==
-
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNS4xOTYuMjkuMTIzIiwicG9ydCI6MjA4MiwiaWQiOiIxMTJhYzM2Zi0zZjUzLTRlMjYtODM3MS1kMjVjMDI4ZTFiOWEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiZ29vZ2xlLmNvbSIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiJQcm94eUNsb3VkIFgifQ==
 
 vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoiPj5Ab25lY2xpY2t2cG5rZXlzOjpGUjo6RlI6OlhYOjpYWCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 
