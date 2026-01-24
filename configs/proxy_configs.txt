@@ -8,8 +8,6 @@ vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@mkh.v2plus.ovh:443?path=%2F&securit
 
 vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@193.233.85.244:2584?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2nodes%3A%3ADE
 
-vless://038a50c3-229c-41ef-a7ef-7abb504e4f33@91.108.245.93:2584?security=none&encryption=none&headerType=none&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40V2rayNG_CaFe%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%AB%86
-
 vless://0524840c-b9c9-4994-82db-129ac8caeac5@iran.zone-server-irani.ir:2053?encryption=none&type=ws&path=/?ed%3D2048&security=tls&fp=chrome&sni=wizwiz.vidboxco.ir#MehradLearn
 
 vless://0524840c-b9c9-4994-82db-129ac8caeac5@iran.zone-server-irani.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=wizwiz.vidboxco.ir#%3E%3E%40prrofile_purple%3A%3AXX
@@ -171,6 +169,8 @@ vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.1:8880/?type=ws&encrypt
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.212:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
 
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.237:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
+
+vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.241:8880/?type=ws&encryption=none&flow=&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2FHK#%3E%3E%40oneclickvpnkeys%3A%3AUS
 
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
@@ -348,6 +348,8 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjAw
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjAwMTpiYzg6MzJkNzozMDI6OjEwIiwicG9ydCI6NDQ1NzksImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLz9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsIm5hbWUiOiJcdTdmOGVcdTU2ZmQoeXVkb3U2Njc3LnRvcCBcdTczODlcdThjNDZcdTUxNGRcdThkMzlcdTgyODJcdTcwYjkpIn0=
 
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjAwMTpiYzg6MzJkNzozMDI6OjEwIiwicG9ydCI6NDQ1NzksImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsInBhdGgiOiJcLz9lZD0yMDQ4IiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsIm5hbWUiOiJGUlx1NmNkNVx1NTZmZChtaWJlaTc3LmNvbSBcdTdjNzNcdThkMWRcdTgyODJcdTcwYjlcdTUyMDZcdTRlYWIpIn0=
+
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjAwMTpiYzg6MzJkNzozMDI6OjEwIiwicG9ydCI6NDQ1NzksImlkIjoiOGUzNGUxNzAtMTNhZS00ODkyLTlkMjAtMDU5NjJhY2M5Zjg0IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IkFaRVJCLk5FVCIsInBhdGgiOiJcLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwibmFtZSI6IkZSXHU2Y2Q1XHU1NmZkKG1pYmVpNzcuY29tIFx1N2M3M1x1OGQxZFx1ODI4Mlx1NzBiOVx1NTIwNlx1NGVhYikifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoicGwzNy5zYWxhcjQwNDAuY29tIiwicG9ydCI6NDQ3MDEsImlkIjoiYTFlNmU0ZDItOTY1YS00ZjIzLWRlOGQtZTNmM2JjM2FjYmU5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJibWkuaXIiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiVk0tMTAxNi0wMiJ9
@@ -375,8 +377,6 @@ vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OkNBOjpDQTo6Q0E6OkNBOjpDQTo6Q0EiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiI1Mi4yMTQuNC43IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoiIiwiaWQiOiJiYjlkNzNiZS1lMmEzLTQwMTAtZDc1NC0wZDllMjRkZDUzNzciLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjIyNzAwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiI4NS4yMDQuMTA3LjMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjUzZTBlZGE2LTJhOWUtNGE3Ni1iZDQ0LTMwZTUwOWY2MzUwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJcdWQ4M2NcdWRkZjdcdWQ4M2NcdWRkZjRbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVJPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 
 vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiI+PkBvbmVjbGlja3ZwbmtleXM6OkFFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
